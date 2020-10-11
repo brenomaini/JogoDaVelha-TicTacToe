@@ -9,4 +9,4 @@ TicTacToe - Linux Vs Mac theme
 
 - Link: https://brenomaini.github.io/JogoDaVelha-TicTacToe/
 
-![Imgur](https://imgur.com/Y3L9Vy6)
+![Imgur](https://i.imgur.com/Y3L9Vy6)
